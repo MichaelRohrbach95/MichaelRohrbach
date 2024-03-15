@@ -2,9 +2,11 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 <h4 align="center">🌱 I’m currently learning <b>Azure-Cloud</b></h4>
+<div align="center">
 <a align="center" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </a> 
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
