@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<h4 align="center">🌱 I’m currently learning **Azure-Cloud**</h4>
+<h4 align="center">🌱 I’m currently learning <b>Azure-Cloud</b></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
