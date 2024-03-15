@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<h4 align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="24" height="24"/>  I’m currently learning <b>Azure-Cloud</b></h4>
+<h4 align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="32" height="32"/>  I’m currently learning <b>Azure-Cloud</b></h4>
 <div align="center">
 <a align="center" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
 
