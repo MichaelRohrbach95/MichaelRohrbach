@@ -17,9 +17,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-</a> 
+
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a> 
